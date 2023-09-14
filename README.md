@@ -18,9 +18,10 @@ Install the following modules: Pandas, tensorflow, tkinter, numpy ,fuzzywuzzy ,L
 
 
 ## Issues
-* Before you finished typing a prediction is to be made (sometimes incorrect), can be alleviated with pressing anything on the keyboard
+* ~~Before you finished typing a prediction is to be made (sometimes incorrect), can be alleviated with pressing anything on the keyboard~~ **Fixed!**
 * Sometimes produces the wrong prediction e.g. 'Spiderman' returns 'Superman', But 'Spider-Man' or 'Spider Ma' works fine
-
+* There is small chance that if you type too quicklky there may not be a prediction produced
+  
 ## Future Ideas
 * Expand onto a bigger dataset and different dataset when i get a more powerful setup.
 * Explore ideas such as pressing Tab to auto complete the suggestion. (The suggestion will be in grey and the user can be press tab to autocomplete)
