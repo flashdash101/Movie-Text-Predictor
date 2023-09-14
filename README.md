@@ -5,7 +5,7 @@ A simple Text Predictor which uses RNNs to predict the next word of the input
 Developed a Text Predictor Application using deep learning, trained on 5,000 movie titles with a 68% prediction accuracy. Collaborated for optimization, created user-friendly GUI, showcasing NLP and deep learning application in sequence modeling.
 
 ## pre-requisite requirements:
-Install the following modules: Pandas, tensorflow, tkinter, numpy ,fuzzywuzzy ,Levenshtein (optional) and threading using pip install [ModuleName]
+Install the following modules: Pandas, tensorflow, tkinter, numpy ,fuzzywuzzy ,Levenshtein (optional), functools and threading using pip install [ModuleName]
 
 ## Images
 ![Screenshot 2023-09-06 181919](https://github.com/flashdash101/Movie-Text-Predictor/assets/97402685/16d78aab-496f-4016-bb28-61382e9f10d7)
